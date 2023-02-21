@@ -1,0 +1,3 @@
+   0 touch /tmp/test.txt && cat /etc/group >> /tmp/test.txt
+   1 vi /tmp/test.txt
+   2 history > homework3.txt && export_file homework3.txt && export_file/tmp/test.txt
