@@ -1,0 +1,4 @@
+   0 nano /tmp/myfirstbashscript.sh
+   1 chmod 744 /tmp/myfirstbashscript.sh && export USER=elvis
+   2 /tmp/myfirstbashscript.sh 
+   3 history > homework4.txt && export_file homework4.txt
